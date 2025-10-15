@@ -9,7 +9,7 @@ import {
 import { formatEther, parseAbiItem } from 'viem'
 import abi from './abi.json'
 
-// 用户给出的合约地址（Sepolia）
+// 合约地址（Sepolia）
 const CONTRACT_ADDRESS = '0xC1eE62365fdA52e3fbCc0CC01Bd5365865DaA40d'
 
 export default function App() {
